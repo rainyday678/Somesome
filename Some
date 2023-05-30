@@ -9,3 +9,4 @@ vmess://ws+tls:4014858c-fe42-11ed-ad83-2fd48c11613c-0@ca1-vmess.tunnel.cx:443/?h
 vmess://ws+tls:4014858c-fe42-11ed-ad83-2fd48c11613c-0@ca1-vmess.tunnel.cx:443/?host=ca1-vmess.tunnel.cx&path=/vmess&tlsServerName=ca1-vmess.tunnel.cx#akunssh-dfygh76-7-CA
 vmess://ws+tls:4014858c-fe42-11ed-ad83-2fd48c11613c-0@ca1-vmess.tunnel.cx:443/?host=ca1-vmess.tunnel.cx&path=/vmess&tlsServerName=ca1-vmess.tunnel.cx#akunssh-hg65rfg-7-CA
 vmess://ws+tls:4014858c-fe42-11ed-ad83-2fd48c11613c-0@ca1-vmess.tunnel.cx:443/?host=ca1-vmess.tunnel.cx&path=/vmess&tlsServerName=ca1-vmess.tunnel.cx#akunssh-hg65rfg-7-CA
+vmess://ws+tls:0a50dfbc-1f6b-46fe-8831-a36495d0b101-0@fr1.v2rayserv.com:443/?host=fr1.v2rayserv.com&path=/vmess&tlsServerName=fr1.v2rayserv.com#sshocean-ghuye23w
